@@ -15,18 +15,16 @@ This repository serves as a personal log and resource hub as I challenge myself 
 
 ## 🧠 Languages Covered
 
-- ✅ Python – *(Completed in X days)*
+- ✅ JavaScript & HTML/CSS – *(Completed in 2 weeks)*
 - ⏳ Java – *(In Progress)*
-- 🔜 JavaScript – *(Coming Soon)*
-- 🔜 C++
+- 🔜 Python – *(Coming Soon)*
 - 🔜 SQL
-- 🔜 HTML/CSS
 
 ## 📂 Folder Structure
 
 Each language will have its own folder, organized like so:
 
-- language_name---> Notes
+- language_name---> Notes(VS CODE)
 
 
 ## ✨ Goals
